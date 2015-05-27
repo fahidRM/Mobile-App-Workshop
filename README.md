@@ -5,4 +5,5 @@ Introductory android application.
 Aimed at teaching the following;
 
   > Multi language support
+  
   > Setting a custom icon
